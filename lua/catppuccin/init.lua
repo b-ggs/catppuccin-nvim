@@ -1,6 +1,6 @@
 local M = {}
 
-local flavours = { "latte", "frappe", "macchiato", "mocha" }
+local flavours = { "latte", "frappe", "macchiato", "mocha", "pinkdrink", "pinkdrink_v2", "pinkdrink_v3" }
 
 function M.load()
 	local compiled = nil
